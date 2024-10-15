@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\bin\Debug\net8.0\SimpleTicTacToeApp.exe
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\bin\Debug\net8.0\SimpleTicTacToeApp.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\bin\Debug\net8.0\SimpleTicTacToeApp.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\bin\Debug\net8.0\SimpleTicTacToeApp.dll
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\bin\Debug\net8.0\SimpleTicTacToeApp.pdb
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.dll
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\refint\SimpleTicTacToeApp.dll
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.pdb
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\SimpleTicTacToeApp.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\SimpleTicTacToeApp\SimpleTicTacToeApp\obj\Debug\net8.0\ref\SimpleTicTacToeApp.dll
